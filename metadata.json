@@ -1,0 +1,5 @@
+{
+  "name": "Anime Studio AI",
+  "description": "Generate high-quality anime video episodes from text descriptions using the Veo model.",
+  "requestFramePermissions": []
+}
